@@ -1,7 +1,4 @@
 Autor: Jędrzej
-
-
-
-To jest testowe repozytorium z inżynierii oprogramowania. 
-Wrzucam tu pierwsze próby dotyczące commitów i branchy
+To jest testowe repozytorium z kalkulatorem inżynierii oprogramowania. 
+Znajduja się tu pierwsze próby dotyczące commitów i branchy, a także funckje tworzące kalkulator.
 
