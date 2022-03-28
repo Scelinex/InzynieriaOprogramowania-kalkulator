@@ -1,5 +1,5 @@
 Autor: Jędrzej
-Data: 28.03
+
 
 
 To jest testowe repozytorium z inżynierii oprogramowania. 
