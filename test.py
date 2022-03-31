@@ -6,8 +6,6 @@ def  hello(name)
 def odejmij (a,b):
 	return a-b
 
-fsldnkjsdnkjsdfnkjdsf
-
 def dodaj(a,b)
 	wynik=float(a) + float(b)
 	return wynik
